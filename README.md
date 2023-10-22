@@ -29,7 +29,7 @@ To get started with the project, follow these steps:
 3. **Install Dependencies:** Navigate to the project directory and install the required dependencies using npm or yarn.
 
    ```bash
-   cd 3d-portfolio
+   cd 3DPortfolio
    npm install
    # OR
    yarn install

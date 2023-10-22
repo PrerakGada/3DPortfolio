@@ -123,7 +123,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies."
+      "Developed and maintained web applications using React.js and other related technologies."
     ],
   },
   {
@@ -133,7 +133,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products."
+      "Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality products."
     ],
   },
   {
@@ -143,7 +143,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "Implementing responsive design and ensuring cross-browser compatibility."
+      "Implemented responsive design and ensuring cross-browser compatibility."
     ],
   },
   {
