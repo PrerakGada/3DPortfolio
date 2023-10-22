@@ -52,8 +52,8 @@ The project is structured as follows:
 - `src/`: This directory contains the source code for the project.
 - `public/`: Public assets and HTML template.
 - `package.json`: Node.js project configuration.
-- `README.md`: This README file.
-
+- `README.md`: This is the README file.
+- `CODE_OF_CONDUCT.md`: This is the code of conduct file.
 ## How to Contribute
 
 We welcome and encourage contributions from the community to make this project better. To contribute:
